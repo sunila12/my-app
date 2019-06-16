@@ -59,5 +59,6 @@
         </plugin>
     </plugins>
 </build>
-	
+<version>2.19</version>	
 </project>
+
